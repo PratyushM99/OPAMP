@@ -1,2 +1,2 @@
-# Matlab
-This space is dedicated to housing a collection of MATLAB codes covering various projects and tasks. Explore a range of topics, from mathematical computations to signal processing and beyond. Feel free to browse, contribute, or find inspiration for your MATLAB endeavors.
+# OP-AMP
+Welcome to the 'OP-AMP' repository! Here, you'll find a compilation of circuits developed using operational amplifiers (op-amps). Explore a variety of designs ranging from basic amplifier configurations to more complex applications such as filters, oscillators, and instrumentation circuits. Join us in the world of analog electronics and discover the versatile capabilities of op-amps. Contributions and feedback are always appreciated!
